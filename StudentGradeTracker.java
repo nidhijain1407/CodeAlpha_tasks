@@ -11,7 +11,7 @@ class Student {
         this.name = name;
         this.marks = marks;
     }
-
+    
     public int getId() {
         return id;
     }
